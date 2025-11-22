@@ -1,12 +1,11 @@
 # Digital Logic Design – Final Project  
 ### Aleyna Gener  
-**Student ID:** 64240051
 
 ## 📌 Project Description
 This project involves the design of a **15-pixel (5x3) LED display system** and an **ID code generator**.  
 The system displays digits from a student number sequentially using binary inputs, logic gates, and a timing circuit.  
 All circuits were simulated and tested on **TinkerCAD**.  
-:contentReference[oaicite:0]{index=0}
+
 
 ---
 
